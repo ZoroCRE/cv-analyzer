@@ -1,0 +1,30 @@
+{
+  "translation": {
+    "appName": "CV-Intellect",
+    "landing": {
+      "heroTitle": "Unlock Your Perfect Hire, Faster.",
+      "heroSubtitle": "AI-powered CV analysis that goes beyond keywords. Get deep insights, accurate scoring, and streamline your recruitment process.",
+      "ctaButton": "Get Started for Free",
+      "login": "Log In"
+    },
+    "login": {
+      "title": "Welcome Back!",
+      "subtitle": "Sign in to continue to CV-Intellect.",
+      "emailLabel": "Email Address",
+      "passwordLabel": "Password",
+      "button": "Sign In",
+      "forgotPassword": "Forgot Password?",
+      "noAccount": "Don't have an account?",
+      "signUp": "Sign Up"
+    },
+    "navigation": {
+        "dashboard": "Dashboard",
+        "upload": "New Analysis",
+        "submissions": "Submissions",
+        "keywords": "Keyword Lists",
+        "settings": "Settings",
+        "admin": "Admin Panel",
+        "logout": "Logout"
+    }
+  }
+}
