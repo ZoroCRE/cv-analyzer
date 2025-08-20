@@ -20,7 +20,7 @@
   "author": "Gemini",
   "license": "ISC",
   "dependencies": {
-    "@google/generative-ai": "^0.7.1",
+    "@google/generative-ai": "^0.24.1",
     "@supabase/supabase-js": "^2.39.8",
     "bullmq": "^5.7.9",
     "cors": "^2.8.5",
